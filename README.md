@@ -28,6 +28,6 @@ If Player drew a third card, the Banker acts according to the following more com
 
 ## Execution
 
-Compile all source code files with `javac *.java`
-To run the command-line application, run `java Game`
+Compile all source code files with `javac *.java`  
+To run the command-line application, run `java Game`  
 To run the GUI JavaFX application, run `java BaccaratFX`
