@@ -26,4 +26,8 @@ If Player drew a third card, the Banker acts according to the following more com
 * If Player drew an 8, Banker draws with 0–2 and stands with 3–7.
 * If Player drew an ace, 9, 10, or face-card, the Banker draws with 0–3 and stands with 4–7.
 
+## Execution
 
+Compile all source code files with `javac *.java`
+To run the command-line application, run `java Game`
+To run the GUI JavaFX application, run `java BaccaratFX`
